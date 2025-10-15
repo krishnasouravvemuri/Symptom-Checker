@@ -1,0 +1,17 @@
+# Python/Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+venv/
+Backend/.env
+
+# React/Node
+node_modules/
+dist/
+Frontend/.env
+
+# IDEs
+.vscode/
+.idea/
